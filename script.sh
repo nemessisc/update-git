@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Script Install Git (and Homebrew ) then replace Apple's local git distron with the newly installed
+
 #checking the current Apple version of Git
 
 function version_git {
