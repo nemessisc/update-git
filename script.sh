@@ -27,7 +27,7 @@ fi
 echo "now installing git....."
 brew install git 
 
-#Replacing Apple git distro path with the local one installed
+#Replacing Apple git distro PATH with the local one installed
 function set_path{
 		echo "Setting path to the local git distro instead of the Apple one...."
 		export PATH=/usr/local/bin:$PATH
