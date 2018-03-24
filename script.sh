@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script to install Git (and Homebrew ) then replace Apple's local git distro with the newly installed
+#Script to install Git (and Homebrew ) then replace the PATH to Apple's local git distro with the newly installed
 
 #checking the current Apple version of Git
 
