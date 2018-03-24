@@ -35,6 +35,8 @@ function set_path{
 
 set_path
 sleep 1
+
+#goodbye message 
 echo "to update git in the future run: brew upgrade git"
 echo "bye bye (^._.^)ﾉ"
 
