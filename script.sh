@@ -33,6 +33,8 @@ function set_path{
 		export PATH=/usr/local/bin:$PATH
 		echo "The current version should now be:"
 		git --version
+		echo "Let's make it permanet now.."
+		brew link --overwrite git
 }
 
 set_path
